@@ -20,6 +20,8 @@ import kotlin.system.exitProcess
 
 class MainActivity : AppCompatActivity() {
 
+    //Hello
+
     private val Usdt = "USDT"
     private val Ethruem = "ETH"
     private val Rubl = "XRP"
