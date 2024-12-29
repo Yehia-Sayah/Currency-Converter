@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">محول العملات</string>
+    <string name="currency_converter">محول العملات</string>
+    <string name="convert">تحويل</string>
+    <string name="result">نتيجة</string>
+    <string name="from">من</string>
+    <string name="to">إلي</string>
+    <string name="amount">الكمية</string>
+    <string name="select_currncy">إختيار العملة</string>
+    <string name="require">مطلوب</string>
+    <string name="amount_user">الكمية</string>
+    <string name="converted_amount">تحويل الكمية</string>
+    <string name="Share">مشاركة</string>
+    <string name="Contact_us">اتصل بنا</string>
+    <string name="Exit">خروج</string>
+</resources>
